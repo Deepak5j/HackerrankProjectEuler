@@ -27,6 +27,3 @@ for a0 in range(t):
 
     
     print(int(asum+bsum-csum))
-    
-    
-    
